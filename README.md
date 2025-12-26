@@ -53,6 +53,10 @@ Frontend Developer
 🔗 GitHub: https://github.com/username  
 🔗 LinkedIn: (add later if you want)
 
+## Project Screenshot
+![Stopwatch App](stopwatch-project-screenshot.png)
+
+
 ---
 
 ## 📄 License
